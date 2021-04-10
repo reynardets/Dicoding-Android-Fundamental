@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Pembuat Github</string>
+    <string name="nama">Nama</string>
+    <string name="uname">Nama pengguna</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Gudang</string>
+    <string name="company">Perusahaan</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="background">Latar Belakang</string>
+    <string name="back">Kembali</string>
+    <string name="url">url</string>
+    <string name="query_hint">Masukkan nama pengguna</string>
+    <string name="empty">Tidak ada</string>
+    <string name="setting">Pengaturan</string>
+    <string name="emptypage">Tidak ada data yang ditampilkan</string>
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+</resources>
