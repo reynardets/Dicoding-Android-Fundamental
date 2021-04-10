@@ -1,5 +1,5 @@
 # Dicoding Android Fundamental Submission 2
-Submission - Belajar membuat aplikasi android untuk pemula dicoding https://www.dicoding.com/academies/51
+Submission - Belajar Fundamental Aplikasi Android Dicoding https://www.dicoding.com/academies/14
 
 ## Description
 So, recently I got a task from Dicoding to make an app to search the user at github and can view the detail. So, I make it and this is the result
